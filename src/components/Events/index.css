@@ -1,0 +1,32 @@
+.event-app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.events-container {
+  background-color: hsl(215, 16%, 47%);
+  min-height: 100vh;
+  width: 60vw;
+  /* max-width: 600px; */
+  min-width: 600px;
+}
+.registration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-size: 26px;
+  font-family: 'Roboto';
+  margin-left: 40px;
+}
+.events-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}

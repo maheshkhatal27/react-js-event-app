@@ -1,0 +1,23 @@
+.event-list-item {
+  list-style-type: none;
+}
+.button-img {
+  background-color: transparent;
+  border-width: none;
+  border: 0px;
+}
+.event-img-resize {
+  height: 140px;
+  width: 240px;
+  border-radius: 5px;
+}
+.name {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.location {
+  color: #f8fafc;
+  font-size: 17px;
+  font-family: 'Roboto';
+}
